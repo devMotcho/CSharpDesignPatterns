@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.exe
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\refint\DependencyInversionPrinciple.dll
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\DependencyInversionPrinciple\obj\Debug\net8.0\ref\DependencyInversionPrinciple.dll
