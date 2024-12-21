@@ -1,0 +1,14 @@
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\net8.0\CSharpDesignPatterns.exe
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\net8.0\CSharpDesignPatterns.deps.json
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\net8.0\CSharpDesignPatterns.runtimeconfig.json
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\net8.0\CSharpDesignPatterns.dll
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\net8.0\CSharpDesignPatterns.pdb
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.AssemblyInfo.cs
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.dll
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\refint\CSharpDesignPatterns.dll
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.pdb
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\CSharpDesignPatterns.genruntimeconfig.cache
+C:\Users\devmm\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\net8.0\ref\CSharpDesignPatterns.dll

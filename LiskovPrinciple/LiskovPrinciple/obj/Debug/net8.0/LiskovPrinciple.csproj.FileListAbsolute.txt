@@ -1,0 +1,14 @@
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.AssemblyInfoInputs.cache
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.AssemblyInfo.cs
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\bin\Debug\net8.0\LiskovPrinciple.exe
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\bin\Debug\net8.0\LiskovPrinciple.deps.json
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\bin\Debug\net8.0\LiskovPrinciple.runtimeconfig.json
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\bin\Debug\net8.0\LiskovPrinciple.dll
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\bin\Debug\net8.0\LiskovPrinciple.pdb
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.dll
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\refint\LiskovPrinciple.dll
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.pdb
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\LiskovPrinciple.genruntimeconfig.cache
+C:\Users\devmm\source\repos\LiskovPrinciple\LiskovPrinciple\obj\Debug\net8.0\ref\LiskovPrinciple.dll
