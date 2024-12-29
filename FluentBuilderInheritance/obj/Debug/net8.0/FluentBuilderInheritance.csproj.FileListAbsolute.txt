@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\bin\Debug\net8.0\FluentBuilderInheritance.exe
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\bin\Debug\net8.0\FluentBuilderInheritance.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\bin\Debug\net8.0\FluentBuilderInheritance.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\bin\Debug\net8.0\FluentBuilderInheritance.dll
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\bin\Debug\net8.0\FluentBuilderInheritance.pdb
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.dll
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\refint\FluentBuilderInheritance.dll
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.pdb
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\FluentBuilderInheritance.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\FluentBuilderInheritance\obj\Debug\net8.0\ref\FluentBuilderInheritance.dll
