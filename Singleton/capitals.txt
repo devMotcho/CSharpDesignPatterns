@@ -1,0 +1,14 @@
+Tokyo
+37393000
+New Delhi
+30291000
+Beijing
+20463000
+Cairo
+20901000
+Moscow
+12476000
+Paris
+10958000
+London
+9177000
