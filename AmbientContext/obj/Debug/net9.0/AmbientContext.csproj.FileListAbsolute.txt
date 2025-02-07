@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\bin\Debug\net9.0\AmbientContext.exe
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\bin\Debug\net9.0\AmbientContext.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\bin\Debug\net9.0\AmbientContext.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\bin\Debug\net9.0\AmbientContext.dll
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\bin\Debug\net9.0\AmbientContext.pdb
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.dll
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\refint\AmbientContext.dll
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.pdb
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\AmbientContext.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\AmbientContext\obj\Debug\net9.0\ref\AmbientContext.dll

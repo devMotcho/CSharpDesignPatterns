@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\bin\Debug\net9.0\PerThreadSingleton.exe
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\bin\Debug\net9.0\PerThreadSingleton.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\bin\Debug\net9.0\PerThreadSingleton.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\bin\Debug\net9.0\PerThreadSingleton.dll
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\bin\Debug\net9.0\PerThreadSingleton.pdb
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.dll
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\refint\PerThreadSingleton.dll
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.pdb
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\PerThreadSingleton.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\PerThreadSingleton\obj\Debug\net9.0\ref\PerThreadSingleton.dll
