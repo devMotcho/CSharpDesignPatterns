@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VectorRaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dfb10e65b1aab96a95d878a4d80872a09ebbc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8ccfdd84592549229f93c7e7036d8f5b4fb870a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VectorRaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VectorRaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

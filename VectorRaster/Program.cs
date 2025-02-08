@@ -1,5 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 using System.Collections.Generic;
+using System.Collections;
 namespace DesignPatterns;
 
 public class Point
@@ -9,6 +10,18 @@ public class Point
     {
         X = x;
         Y = y;
+    }
+
+    public override bool Equals(object? obj)
+    {
+        return obj is Point point &&
+               X == point.X &&
+               Y == point.Y;
+    }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(X, Y);
     }
 }
 
@@ -20,6 +33,18 @@ public class Line
     {
         Start = start;
         End = end;
+    }
+
+    public override bool Equals(object? obj)
+    {
+        return obj is Line line &&
+               EqualityComparer<Point>.Default.Equals(Start, line.Start) &&
+               EqualityComparer<Point>.Default.Equals(End, line.End);
+    }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(Start, End);
     }
 }
 
@@ -39,13 +64,19 @@ public class VectorRectangle : VectorObject
     }
 }
 
-public class LinewToPointAdapter : Collection<Point>
+public class LinewToPointAdapter : IEnumerable<Point>
 {
     private static int count;
+    static Dictionary<int, List<Point>> cache = new (); // key is the has code
 
     public LinewToPointAdapter(Line line)
     {
+        var hash = line.GetHashCode();
+        if (cache.ContainsKey(hash)) return;
+
         Console.WriteLine($"{++count}: Generating points for line [{line.Start.X},{line.Start.Y}] - [{line.End.X},{line.End.Y}]");
+
+        var points = new List<Point>();
 
         int left = Math.Min(line.Start.X, line.End.X);
         int right = Math.Max(line.Start.X, line.End.X);
@@ -58,18 +89,30 @@ public class LinewToPointAdapter : Collection<Point>
         {
             for (int y = top; y <= bottom; ++y)
             {
-                Add(new Point(left, y));
+                points.Add(new Point(left, y));
             }
         }
         else if (dy == 0)
         {
             for (int x = left; x <= right; ++x)
             {
-                Add(new Point(x, top));
+                points.Add(new Point(x, top));
             }
 
         }
 
+        cache.Add(hash, points);
+
+    }
+
+    public IEnumerator<Point> GetEnumerator()
+    {
+        return cache.Values.SelectMany(x => x).GetEnumerator();
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        throw new NotImplementedException();
     }
 }
 
@@ -89,6 +132,13 @@ class Demo
 
     static void Main(string[] args)
     {
+        Draw();
+        Draw();
+
+    }
+
+    private static void Draw()
+    {
         foreach (var vo in vectorObjects)
         {
             foreach (var line in vo)
@@ -97,7 +147,5 @@ class Demo
                 adapter.ToList().ForEach(DrawPoint);
             }
         }
-
     }
-
 }
