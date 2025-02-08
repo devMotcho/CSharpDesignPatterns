@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\bin\Debug\net9.0\VectorRaster.exe
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\bin\Debug\net9.0\VectorRaster.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\bin\Debug\net9.0\VectorRaster.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\bin\Debug\net9.0\VectorRaster.dll
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\bin\Debug\net9.0\VectorRaster.pdb
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.dll
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\refint\VectorRaster.dll
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.pdb
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\VectorRaster.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\VectorRaster\obj\Debug\net9.0\ref\VectorRaster.dll
