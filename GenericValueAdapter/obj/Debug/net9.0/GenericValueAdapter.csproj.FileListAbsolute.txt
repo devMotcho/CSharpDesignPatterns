@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\bin\Debug\net9.0\GenericValueAdapter.exe
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\bin\Debug\net9.0\GenericValueAdapter.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\bin\Debug\net9.0\GenericValueAdapter.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\bin\Debug\net9.0\GenericValueAdapter.dll
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\bin\Debug\net9.0\GenericValueAdapter.pdb
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.dll
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\refint\GenericValueAdapter.dll
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.pdb
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\GenericValueAdapter.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\GenericValueAdapter\obj\Debug\net9.0\ref\GenericValueAdapter.dll
