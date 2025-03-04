@@ -1,0 +1,15 @@
+C:\Users\devmm\Desktop\DesignPatterns\Composite\bin\Debug\net8.0\Composite.exe
+C:\Users\devmm\Desktop\DesignPatterns\Composite\bin\Debug\net8.0\Composite.deps.json
+C:\Users\devmm\Desktop\DesignPatterns\Composite\bin\Debug\net8.0\Composite.runtimeconfig.json
+C:\Users\devmm\Desktop\DesignPatterns\Composite\bin\Debug\net8.0\Composite.dll
+C:\Users\devmm\Desktop\DesignPatterns\Composite\bin\Debug\net8.0\Composite.pdb
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.AssemblyInfoInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.AssemblyInfo.cs
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.sourcelink.json
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.dll
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\refint\Composite.dll
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.pdb
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\Composite.genruntimeconfig.cache
+C:\Users\devmm\Desktop\DesignPatterns\Composite\obj\Debug\net8.0\ref\Composite.dll
